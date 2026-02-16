@@ -12,7 +12,7 @@ interface MedicalReport {
 }
 
 
-const API_BASE_URL = 'http://localhost:5000/api';
+const API_BASE_URL = 'https://cardiiix.onrender.com/api';
 
 
 export const groqService = {
