@@ -1,0 +1,8 @@
+{
+  "name": "Vivitsu Medical AI",
+  "description": "An advanced AI-powered medical assistant for symptom analysis, medical report interpretation, and real-time health consultation using Gemini 3 Pro.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
